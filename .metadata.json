@@ -1,9 +1,5 @@
 [
   {
-    "package": "BayesianTools",
-    "oncran": true
-  },
-  {
     "package": "DHARMa",
     "oncran": true
   }
