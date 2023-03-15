@@ -1,10 +1,10 @@
 [
   {
-    "package": "BayesianTools",
+    "package": "DHARMa",
     "oncran": true
   },
   {
-    "package": "DHARMa",
+    "package": "BayesianTools",
     "oncran": true
   }
 ]
